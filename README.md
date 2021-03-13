@@ -6,4 +6,6 @@ Your Client FinMan is a financial services company that provides various financi
 Once these leads are acquired, the sales advisors approach them to convert and thus the company can sell proposed health insurance to these leads in a more efficient manner.
 
 Now the company needs your help in building a model to predict whether the person will be interested in their proposed Health plan/policy given the information about:
-
+>Demographics (city, age, region etc.)
+>Information regarding holding policies of the customer
+>Recommended Policy Information
